@@ -5,7 +5,7 @@ import { GiRapidshareArrow } from "react-icons/gi";
 
 const Timeline = () => {
   return (
-    <main className="flex w-[60%] h-full min-h-screen flex-col border-l-[0.5px] border-r-[0.5px] border-gray-600">
+    <main className="flex w-[70%] h-full min-h-screen flex-col border-l-[0.5px] border-r-[0.5px] border-gray-600">
       <h1 className="text-xl font-bold p-6 backdrop-blur bg-black/10 sticky top-0">
         Home
       </h1>

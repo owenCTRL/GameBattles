@@ -5,10 +5,10 @@ import { BsSearch } from "react-icons/bs";
 const Home = () => {
   return (
     <div className="w-full h-full flex justify-center items-center relative bg-black">
-      <div className="max-w-[70vw] w-full h-full flex relative">
+      <div className="max-w-[90vw] w-full h-full flex relative">
         <LeftSidebar />
         <Timeline />
-        <section className="w-full sticky top-2 mt-2 flex flex-col items-stretch h-screen px-6">
+        <section className="w-[50%] sticky top-2 mt-2 flex flex-col items-stretch h-screen px-6">
           <div>
             <div className="relative w-full h-full">
               <input
@@ -25,11 +25,11 @@ const Home = () => {
               </label>
             </div>
           </div>
-          <div className="flex flex-col rounded-xl bg-neutral-900 p-4 my-4">
-            <h3 className="font-bold text-2xl my-4">What's happening</h3>
+          <div className="flex flex-col rounded-xl bg-neutral-900 my-4">
+            <h3 className="font-bold text-2xl my-4 p-4">Rankings</h3>
             <div>
               {Array.from({ length: 5 }).map((_, i) => (
-                <div key={i} className="hover:bg-white/10">
+                <div key={i} className="hover:bg-white/10 p-4">
                   <div className="font-bold text-lg">#trending ${i + 1}</div>
                   <div className="text-xs text-neutral-400">35.4k</div>
                 </div>
