@@ -1,33 +1,43 @@
 import LeftSidebar from "./components/LeftSidebar";
+import Timeline from "./components/Timeline";
+import { BsSearch } from "react-icons/bs";
 
 const Home = () => {
   return (
     <div className="w-full h-full flex justify-center items-center relative bg-black">
-      <div className="max-w-screen-xl w-full h-full flex relative">
-        {/* left sidebar for navigation/header */}
+      <div className="max-w-[70vw] w-full h-full flex relative">
         <LeftSidebar />
-        <main className="ml-[275px] mx-2 flex w-[600px] h-full min-h-screen flex-col border-l-[0.5px] border-r-[0.5px] border-gray-600">
-          <h1 className="text-xl font-bold p-6">Home</h1>
-          <div className="border-t-[0.5px] px-4 border-b-[0.5px] flex items-stretch py-4 space-x-2 border-gray-600 h-32 relative">
-            <div className="w-10 h-10 bg-slate-400 rounded-full flex-none"></div>
-            <div className="flex flex-col w-full h-full">
+        <Timeline />
+        <section className="w-full sticky top-2 mt-2 flex flex-col items-stretch h-screen px-6">
+          <div>
+            <div className="relative w-full h-full">
               <input
+                id="searchBox"
                 type="text"
-                className="w-full h-full placeholder:text-2xl placeholder:text-gray-600 bg-transparent border-b-[0.5px] border-gray-600 p-4 outline-none border-none"
-                placeholder="What's happening?"
+                placeholder="Search GameBattles"
+                className="outline-none peer focus:border-primary focus:border bg-neutral-900/90 w-full h-full rounded-xl py-4 pl-14 pr-4"
               />
-              <div className="w-full justify-between items-center flex">
-                <div></div>
-                <div className="w-full max-w-[100px]">
-                  <button className="rounded-full bg-primary px-4 py-2 w-full text-lg text-center hover:bg-opacity-70 transition duration-200 font-bold">
-                    Post
-                  </button>
-                </div>
-              </div>
+              <label
+                htmlFor="searchBox"
+                className="absolute top-0 left-0 h-full flex items-center justify-center p-4 text-gray-500 peer-focus:text-primary"
+              >
+                <BsSearch className="w-5 h-5" />
+              </label>
             </div>
           </div>
-        </main>
-        {/* <section>Right Section</section> */}
+          <div className="flex flex-col rounded-xl bg-neutral-900 p-4 my-4">
+            <h3 className="font-bold text-2xl my-4">What's happening</h3>
+            <div>
+              {Array.from({ length: 5 }).map((_, i) => (
+                <div key={i} className="hover:bg-white/10">
+                  <div className="font-bold text-lg">#trending ${i + 1}</div>
+                  <div className="text-xs text-neutral-400">35.4k</div>
+                </div>
+              ))}
+            </div>
+          </div>
+          <div></div>
+        </section>
       </div>
     </div>
   );
