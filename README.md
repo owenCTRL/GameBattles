@@ -45,7 +45,7 @@ Why is everyone forced to enjoy esports from the sidelines?
 We all dreamt of making a living playing competitive video games, and we're putting that power in your hands.
 Bootstrap your own esports career and wager your winnings to climb the ranks!
 
-Esports is what makes the competitive gaming community such an amazing place to compete, connect, and profit. We all dreamt of living the life of a life built through our **own successes**.
+Esports is what makes the competitive gaming community such an amazing place to compete, connect, and profit. We all dreamt of living the life of an celebrity built through our **own successes**.
 
 It's time to bootstrap your esports career. No longer do we live in times of major organizations and massive corporate buyouts steering the ship of competitive gaming. We are building a platform to climb the ranks, be placed in regional ladders, climb to national ladders, all while wagering your winnings for even larger rewards and reach!
 
