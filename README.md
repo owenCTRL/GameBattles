@@ -118,7 +118,7 @@ Project Link: [https://github.com/owenAPI/GameBattles](https://github.com/owenAP
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-linnks -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/owenAPI/GameBattles.svg?style=for-the-badge
 [contributors-url]: https://github.com/owenAPI/GameBattles/graphs/contributors
