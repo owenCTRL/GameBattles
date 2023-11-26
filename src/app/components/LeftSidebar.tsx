@@ -20,16 +20,16 @@ const NAVIGATION_ITEMS = [
     icon: BiHomeAlt,
   },
   {
-    title: "Matches",
-    icon: BiCrown,
-  },
-  {
     title: "Notificatons",
     icon: BiBell,
   },
   {
     title: "Messages",
     icon: BiMessage,
+  },
+  {
+    title: "Matches",
+    icon: BiCrown,
   },
   {
     title: "Wagers",
