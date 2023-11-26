@@ -1,12 +1,13 @@
 import Link from "next/link";
-import { BiHomeCircle, BiUser } from "react-icons/bi";
 import {
-  BsBell,
-  BsLadder,
-  BsEnvelope,
-  BsThreeDots,
-  BsTrophy,
-} from "react-icons/bs";
+  BiHomeAlt,
+  BiUser,
+  BiMoney,
+  BiCrown,
+  BiMessage,
+  BiBell,
+  BiDotsHorizontalRounded,
+} from "react-icons/bi";
 import { RiGhost2Fill } from "react-icons/ri";
 
 const NAVIGATION_ITEMS = [
@@ -16,23 +17,23 @@ const NAVIGATION_ITEMS = [
   },
   {
     title: "Home",
-    icon: BiHomeCircle,
+    icon: BiHomeAlt,
   },
   {
     title: "Matches",
-    icon: BsTrophy,
+    icon: BiCrown,
   },
   {
     title: "Notificatons",
-    icon: BsBell,
+    icon: BiBell,
   },
   {
     title: "Messages",
-    icon: BsEnvelope,
+    icon: BiMessage,
   },
   {
-    title: "Ladder",
-    icon: BsLadder,
+    title: "Wagers",
+    icon: BiMoney,
   },
   {
     title: "Profile",
@@ -57,10 +58,10 @@ const LeftSidebar = () => {
           </Link>
         ))}
         <button className="rounded-full m-4 bg-primary p-4 text-2xl text-center hover:bg-opacity-70 transition duration-200">
-          Tweet
+          Wager
         </button>
       </div>
-      <button className="rounded-full flex items-center m-4 space-x-2 bg-transparent p-4 text-center hover:bg-white/10 transition duration-200 justify-between">
+      <button className="rounded-full flex items-center mr-4 space-x-2 bg-transparent p-4 text-center hover:bg-white/10 transition duration-200 justify-between">
         <div className="flex items-center space-x-2">
           <div className="rounded-full bg-slate-400 w-10 h-10"></div>
           <div className="text-left text-sm">
@@ -69,7 +70,7 @@ const LeftSidebar = () => {
           </div>
         </div>
         <div>
-          <BsThreeDots />
+          <BiDotsHorizontalRounded />
         </div>
       </button>
     </section>
