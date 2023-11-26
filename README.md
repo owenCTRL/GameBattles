@@ -42,10 +42,12 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Why is everyone forced to enjoy esports from the sidelines? 
-
 We all dreamt of making a living playing competitive video games, and we're putting that power in your hands.
-
 Bootstrap your own esports career and wager your winnings to climb the ranks!
+
+Esports is what makes the competitive gaming community such an amazing place to compete, connect, and profit. We all dreamt of living the life of a life built through our **own successes**.
+
+It's time to bootstrap your esports career. No longer do we live in times of major organizations and massive corporate buyouts steering the ship of competitive gaming. We are building a platform to climb the ranks, be placed in regional ladders, climb to national ladders, all while wagering your winnings for even larger rewards and reach!
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
@@ -54,9 +56,8 @@ Bootstrap your own esports career and wager your winnings to climb the ranks!
 This section should list any major frameworks/libraries used to bootstrap your project. Here are a few examples.
 
 - [![Next][Next.js]][Next-url]
-- [![React][React.js]][React-url]
-- [![Vue][Vue.js]][Vue-url]
-- [![Angular][Angular.io]][Angular-url]
+- [![Supabase][Supabase.com]][Supabase-url]
+- [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
 - [![Svelte][Svelte.dev]][Svelte-url]
 - [![Laravel][Laravel.com]][Laravel-url]
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -139,6 +140,10 @@ Project Link: [https://github.com/owenAPI/GameBattles](https://github.com/owenAP
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
+[TailwindCSS.com]: [https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+[TailwindCSS-url]: https://tailwindcss.com/
+[Supabase.com]: https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge
+[Supabase-url]: https://supabase.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
