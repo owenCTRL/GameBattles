@@ -41,8 +41,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Why is everyone forced to enjoy esports frmo the sidelines? 
+Why is everyone forced to enjoy esports from the sidelines? 
+
 We all dreamt of making a living playing competitive video games, and we're putting that power in your hands.
+
 Bootstrap your own esports career and wager your winnings to climb the ranks!
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
