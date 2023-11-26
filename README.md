@@ -140,7 +140,7 @@ Project Link: [https://github.com/owenAPI/GameBattles](https://github.com/owenAP
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[TailwindCSS.com]: [https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+[TailwindCSS.com]: https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss
 [TailwindCSS-url]: https://tailwindcss.com/
 [Supabase.com]: https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge
 [Supabase-url]: https://supabase.com/
