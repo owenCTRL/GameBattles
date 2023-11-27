@@ -2,14 +2,6 @@
 
 <a name="readme-top"></a>
 
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -28,6 +20,7 @@
 
   <p align="center">
     Building a competitive gaming interface for the future.
+    <br />
     <br />
     <a href="https://github.com/owenAPI/GameBattles/issues">Report Bug</a>
     ·
@@ -116,7 +109,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-dYx - [@dYxCODE](https://twitter.com/dYxCODE)
+Happy Cat - [@happycatcode](https://twitter.com/happycatcode)
 
 Project Link: [https://github.com/owenAPI/GameBattles](https://github.com/owenAPI/GameBattles)
 
