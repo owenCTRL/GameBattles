@@ -109,7 +109,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Happy Cat - [@happycatcode](https://twitter.com/happycatcode)
+Twitter - [@clickroot](https://twitter.com/clickroot)
 
 Project Link: [https://github.com/owenAPI/GameBattles](https://github.com/owenAPI/GameBattles)
 
