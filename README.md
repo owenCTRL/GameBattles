@@ -8,7 +8,7 @@
 
 <br />
 <p align="center">
-  <img src="public/assets/gamebattles.png" alt="GameBattles Logo" width="120" />
+  <img src="images/logo.png" alt="GameBattles Logo" width="120" />
 </p>
 <h3 align="center">GameBattles</h3>
 <p align="center">
