@@ -1,153 +1,119 @@
-<!-- Improved compatibility of Back to Top link: See: https://github.com/owenAPI/GameBattles/pull/73 -->
-
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
+<!-- SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+![Contributors][contributors-shield]
+![Stars][stars-shield]
+![Issues][issues-shield]
 
-<!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/owenAPI/GameBattles">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+<p align="center">
+  <img src="public/assets/gamebattles.png" alt="GameBattles Logo" width="120" />
+</p>
+<h3 align="center">GameBattles</h3>
+<p align="center">
+  <strong>The Future of Competitive Wagers.</strong><br />
+  Decentralized. Fair. Automated.
+  <br /><br />
+  <code>Where winners get paid, instantly — no middlemen, no delays.</code>
+</p>
 
-  <h3 align="center">GameBattles</h3>
+<br />
 
-  <p align="center">
-    Building a competitive gaming interface for the future.
-    <br />
-    <br />
-    <a href="https://github.com/owenAPI/GameBattles/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/owenAPI/GameBattles/issues">Request Feature</a>
-  </p>
-</div>
+## 🎮 What is GameBattles?
 
-<!-- ABOUT THE PROJECT -->
+**GameBattles** is a fully decentralized wager platform for competitive video games. Using blockchain smart contracts, players can bet on the outcome of matches, pool crypto, and let the chain handle payouts — no referees, no disputes, no centralized control.
 
-## About The Project
+> Your skill, your terms, your rewards.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<br />
 
-Why is everyone forced to enjoy esports from the sidelines? 
-We all dreamt of making a living playing competitive video games, and we're putting that power in your hands.
-Bootstrap your own esports career and wager your winnings to climb the ranks!
+## 🕹️ Why It Matters
 
-Esports is what makes the competitive gaming community such an amazing place to compete, connect, and profit. We all dreamt of living the life of an celebrity built through our **own successes**.
+Esports isn’t just entertainment. It’s a proving ground.
+A place to compete, connect, and profit — not just for the elite, but for everyone.
 
-It's time to bootstrap your esports career. No longer do we live in times of major organizations and massive corporate buyouts steering the ship of competitive gaming. We are building a platform to climb the ranks, be placed in regional ladders, climb to national ladders, all while wagering your winnings for even larger rewards and reach!
+We grew up dreaming of winning on skill alone. Of making our names without needing a corporate sponsor or a viral moment.
+**GameBattles is how we reclaim that dream.**
 
-<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+<br />
 
-### Built With
+## 🔁 How It Works
 
-This section should list any major frameworks/libraries used to bootstrap your project. Here are a few examples.
+**Wager. Win. Withdraw.**
+All on-chain. No trust required.
 
-- [![Next][Next.js]][Next-url]
-- [![Supabase][Supabase.com]][Supabase-url]
-- [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
-- [![Svelte][Svelte.dev]][Svelte-url]
-- [![Laravel][Laravel.com]][Laravel-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-- [![JQuery][JQuery.com]][JQuery-url]
+1. **Create or Join a Match**
+   Define game, rules, wager amount, and participants
 
-<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+2. **Pool Crypto via Smart Contract**
+   Automatically locked into an escrow-like state
 
-<!-- GETTING STARTED -->
+3. **Play and Report the Outcome**
+   Verified through oracles, gameplay APIs, or player consensus
 
-## Getting Started
+4. **Auto-Disbursement**
+   Smart contract pays out winner(s) instantly and transparently
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<br />
 
-### Prerequisites
+## 🌐 Features
 
-This is an example of how to list things you need to use the software and how to install them.
+* 🧾 **Trustless Wager Escrow**
+  Crypto pooled into a smart contract visible to all parties
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-  npm run dev
+* ⛓️ **Decentralized Matchmaking**
+  Peer-to-peer setup — no central server to go down or manipulate
 
-<!-- ROADMAP -->
+* 🧠 **Open-Source Smart Contracts**
+  Auditable, predictable, and governed by code
 
-## Roadmap
+* 🏆 **Ranked Ladder System**
+  Regional to national, wager-based ladder progression
 
-- [ ] design db
-  - [ ] matches
-  - [ ] ladder
-- [ ] deploy db
+* 🚀 **Instant Payouts**
+  No human intervention or withdrawal queues
 
-See the [open issues](https://github.com/owenAPI/GameBattles/issues) for a full list of proposed features (and known issues).
+<br />
 
-<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+## 🗺 Vision: Bootstrap Your Esports Career
 
-<!-- CONTRIBUTING -->
+> “We all dreamt of living the life of a celebrity built through our own successes.”
 
-## Contributing
+That dream starts now — no investors, no orgs, no middlemen.
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* Climb **regional ladders**
+* Earn **on-chain reputation**
+* Advance to **national rankings**
+* **Wager for growth**, not just glory
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Every game is a chance to rise.
+Every match is a battle worth betting on.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+<br />
 
-<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+## 🛠 Built With
 
-<!-- CONTACT -->
+* Solidity (Smart Contracts)
+* Ethereum / L2 Chains (Polygon, Base, Arbitrum)
+* Web3.js / Ethers.js
+* IPFS / Decentralized Storage
+* Game API integrations for match validation
 
-## Contact
+<br />
 
-Twitter - [@clickroot](https://twitter.com/clickroot)
+## 📡 Join the Movement
 
-Project Link: [https://github.com/owenAPI/GameBattles](https://github.com/owenAPI/GameBattles)
+* [Discord](https://discord.gg/gamebattles) — Squad up, stake up, and get ranked **(COMING SOON)**
+* [X](https://x.com/Clickroot) — Announcements, drops, and dev logs **(COMING SOON)**
+* [Website](https://gamebattles.xyz) — **(COMING SOON)**
 
-<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+<br />
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-linnks -->
+<p align="center"><a href="#readme-top">⬆️ Back to Top</a></p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/owenAPI/GameBattles.svg?style=for-the-badge
-[contributors-url]: https://github.com/owenAPI/GameBattles/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/owenAPI/GameBattles.svg?style=for-the-badge
-[forks-url]: https://github.com/owenAPI/GameBattles/network/members
-[stars-shield]: https://img.shields.io/github/stars/owenAPI/GameBattles.svg?style=for-the-badge
-[stars-url]: https://github.com/owenAPI/GameBattles/stargazers
-[issues-shield]: https://img.shields.io/github/issues/owenAPI/GameBattles.svg?style=for-the-badge
-[issues-url]: https://github.com/owenAPI/GameBattles/issues
-[license-shield]: https://img.shields.io/github/license/owenAPI/GameBattles.svg?style=for-the-badge
-[license-url]: https://github.com/owenAPI/GameBattles/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[TailwindCSS.com]: https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss
-[TailwindCSS-url]: https://tailwindcss.com/
-[Supabase.com]: https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge
-[Supabase-url]: https://supabase.com/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
+<!-- SHIELD LINK DEFINITIONS -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/owenCTRL/GameBattles.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/owenCTRL/GameBattles.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/owenCTRL/GameBattles.svg?style=for-the-badge
